@@ -1,3 +1,6 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
+/* eslint-disable no-undef */
+/* eslint-disable @typescript-eslint/no-require-imports */
 const { application } = require('express');
 const mongobd = require('../data/database');
 const ObjectId = require('mongodb').ObjectId;
